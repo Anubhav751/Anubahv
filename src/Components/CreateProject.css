@@ -1,0 +1,241 @@
+.topbar{
+    border-style: solid;
+    border-color:#E3E3E35A;
+    height: 87px;
+    background-color: #FFFFFF;  
+}
+.logo{
+    width:43px;
+    height:37px; 
+}
+.navlink{
+    color:#A0A7B4;
+    font-size:14px;
+    font-family: 'Montserrat', sans-serif; 
+    margin-top:auto;
+    font-weight:bold;
+    text-decoration: none;
+}
+.fuso{
+    display: flex;
+    justify-content: space-between;
+    margin-left:50px;
+    margin-right: 50px;
+    margin-top: 28px;
+};
+.fusofont{
+    color: red;
+    font-size: 20px;
+}
+
+.project{
+    font-size: 21px; 
+    color: "white";
+    padding: 5px;
+    background-color:red;
+    border-radius:5px;
+    margin-right:10px
+}
+
+.Dropdown{
+    width:120px;
+    height:28px; 
+    border-radius:6px;
+    border:none;
+    margin-left:25px;
+}
+.divlist{
+    margin-left:50px;
+    margin-right:50px;
+    display: flex;
+    justify-content:flex-end
+}
+
+.divtable{
+    margin-top:50px; 
+    margin-left:50px;
+    margin-right:50px;
+    justify-content:space-between
+}
+
+.table{
+    margin-left:20px; 
+    font-size:12px
+}
+
+.table-heading{
+    color:#A0A7B4; 
+    font-size:12px; 
+    font-family: 'Montserrat', sans-serif; 
+    font-weight:normal
+
+}
+.table-item{
+    font-size:12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.text1{
+    margin-top:28px;
+    font-weight:bold;
+    font-size:20px;
+    color:#333951;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.text2{
+    margin-top:28px;
+    font-weight:bold;
+    font-size:14px;
+    color:#333951;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.fafaplus{
+    font-size: 21px;
+    color: white;
+    padding: 5px; 
+    background-color:red;
+    border-radius:5px;
+    margin-right:10px
+}
+.downloadicon{
+    font-size: 21px; 
+    color: white; 
+    padding: 5px; 
+    background-color:red;
+    border-radius:5px;
+    margin-right:10px;
+
+}
+.downloadlist{
+    margin-top:30px;
+    font-weight:bold; 
+    font-size:16px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.projectDesc{
+    color: #A0A7B4;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.inputProject{
+    height:40px; 
+    width: 490px; 
+    border-radius:5px ;
+    border:none;
+}
+.inputbox{
+    height:40px; 
+    width:300px ;
+    border-radius:5px; 
+    border:none;
+    margin:0px 20px
+}
+.p{
+    font-family: 'Montserrat', sans-serif;
+    padding-top:28px;
+     font-size:16px;
+    font-weight:bold;
+    padding-left:31px;
+    color:#333951;
+}
+.toggle-container{
+    display:flex
+}
+.divButton{
+    display:flex; 
+    margin-bottom:30px; 
+    flex-direction:row-reverse;
+    margin-right:40px;
+    margin-top:30px; 
+    margin-left:70px;
+    margin-right:50px;
+}
+.createText{
+    margin-right:40px; 
+    border-radius:10px; 
+    height:38px; 
+    width:109px; 
+    background-color:#EE2219; 
+    color:white;
+    font-size:14px; 
+    font-family: 'Montserrat', sans-serif; 
+    font-weight:bold;
+    border:none
+}
+.submitText{
+    margin-right:40px; 
+    border-radius:10px;
+    height:38px;
+    width:150px;
+    background-color:#343A52;
+    color:white;
+    font-size:14px;
+    font-family: 'Montserrat', sans-serif; 
+    font-weight:bold;
+    border:none
+}
+
+
+.toggle{
+    font-size:18px; 
+    font-weight:bold; 
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
+    padding-left:31px;
+
+}
+.main-container{
+    background-color:#F5F5F593; 
+    margin-top:40x;
+    padding-bottom: 40px;
+    border-radius:20px
+}
+
+.nav-item {
+    margin-right: 20px;
+
+}
+
+.form-control {
+    border: 0;
+  }
+
+  .required-field:after {
+    color: #d00;
+    content: "*";
+    position: absolute;
+    margin-left: 3px;
+    top: 5px;
+}
+.container-dropwown{
+    background-color:#F6F6F6;
+    margin-top: 40px;
+    padding-top: 30px; 
+    border-radius: 20px; 
+    padding-bottom: 40px;
+
+}
+.table_container{
+    background-color: #F6F6F6;
+    margin-top: 19px;
+    border-radius: 20px;
+
+    /* backgroundColor: "#F6F6F6", marginTop: 19, borderRadius: 20  */
+}
+
+
+
+
+
+
+
+
+
+

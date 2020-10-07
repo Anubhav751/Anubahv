@@ -1,0 +1,27 @@
+.cardView {
+    width: 180px;
+    height: 150px;
+    border-radius: 25px
+}
+.card-text{
+    color: #A0A7B4;
+}
+
+.bar-text{
+    margin-top:25px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333951;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.shadow_box{
+    box-shadow: 3px 3px 3px 5px #E3E3E35A
+
+}
+.vl {
+    border-left: 6px dotted #0000001F;
+    height: 500px;
+    position: relative;
+    left: 100px;
+}

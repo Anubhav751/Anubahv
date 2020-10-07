@@ -1,0 +1,75 @@
+.p-Text{
+    color: #A0A7B4;
+    font-size: 12px;
+    font-family: 'Montserrat', sans-serif; 
+
+}
+.green-text{
+    background-color:#EFFCF0;
+    border-radius: 14px;
+    color: #0C961C;
+    border: 10px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 30px;
+    padding: 5px 6px;
+    display: inline-block;
+    text-align: center;
+ }
+
+ .checkbox-txt{
+     color: #333951;
+     font-weight: bold;
+     font-size: 16px;
+     font-family: 'Montserrat', sans-serif; 
+ }
+ .paraData-txt{
+     font-size: 14px;
+     font-weight: bold;
+     color: #333951;
+     font-family: 'Montserrat', sans-serif;
+
+ }
+
+ .last-div{
+    margin-left:20px;
+    margin-top:100px;
+ }
+
+ .div-row{
+    padding-top: 71px;
+ }
+
+ .para-txt{
+    padding-left: 60px
+ }
+
+ .prepapration-heading{
+    background-color: #A0A7B440;
+    border-radius: 20px; 
+    height: auto;
+ }
+.prepapration-space{
+    padding: 40px 20px 10px 20px
+}
+.input-box{
+    border: none; 
+    height:40px;
+    border-radius:5px
+}
+
+.input-image{
+    border: none;
+    height: 40px;
+    border-radius: 5px; 
+    width: 328px;
+    background-repeat:no-repeat; 
+    background-position:300px;
+}
+.text-area-input{
+    border:none;
+    width:350px;
+    height:105px
+
+}
+

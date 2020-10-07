@@ -1,0 +1,23 @@
+.logo{
+    width:43;
+    height:37; 
+    margin-top: 31;
+}
+
+.abc{
+    border-style: solid;
+    border-color:#E3E3E35A ;
+    height: 121;
+    background-color: red;  
+}
+.fuso{
+    display: flex;
+    justify-content: space-between;
+    margin-left:50;
+    margin-right: 50;
+    margin-top: 28;
+};
+.fusofont{
+    color: red;
+    font-size: 20;
+}

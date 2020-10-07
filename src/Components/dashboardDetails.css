@@ -1,0 +1,16 @@
+.cardView {
+    width: 180px;
+    height: 150px;
+    border-radius: 25px
+}
+.textStyle{
+    color: white;
+}
+
+.bar-text{
+    margin-top:25px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333951;
+    font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,65 @@
+.menu_active{
+    font-weight:bold;
+    color: greenyellow;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: red;
+}
+
+
+.navbar-nav > li{
+    padding-left:20px;
+    padding-right:20px;
+    font-size: 12;
+    font-weight: bold;
+    color: #A0A7B4;
+
+  }
+  .notification .badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 5px 10px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+  }
+  .profileText{
+      padding-left:20px ;
+      padding-right: 30px;
+      padding-top: 28px;
+      font-family: 'Montserrat', sans-serif;
+      color: #333951;
+      font-size: 14px;
+
+  }
+  .viewText{
+      font-size: 12px;
+      color: #A0A7B4;
+      font-family: 'Montserrat', sans-serif;
+  }
+  .ul{
+    align-items:center
+  }
+  .navbar_brand{
+    height: 37px; 
+    width: 43px; 
+    align-items:center;
+  }
+  .navbar_expand{
+    height: 90px
+  }
+  .avatar{
+    margin-left:40px
+  }
+
+.nav-font{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:700;
+    color:gray;
+    text-decoration: none;
+}
+
+
+
+
